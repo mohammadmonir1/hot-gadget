@@ -1,0 +1,70 @@
+.bottom{
+    margin-bottom: 60px;
+}
+.logo{
+    width: 140px;
+}
+.button{
+    background-color: black;
+    color: white;
+    padding: 5px 19px;
+    border-radius: 10px;
+    border: none;
+}
+#pragraph{
+    color: gray;
+}
+.see{
+    font-size: 20px;
+    color: orange;
+}
+.center{
+    text-align: center;
+}
+.card1{
+    border: none;
+    box-shadow: 5px 5px 12px lightgray;
+    border-radius: 10px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 4px 4px 10px lightgray;
+}
+.imgc{
+    width: 240px;
+    margin: auto;
+}
+.bold{
+    font-weight: 500;
+    padding: 0px 0px 30px 10px;
+}
+/*contact area start from here*/
+.cta{
+    text-align: center;
+    font-weight: 600;
+    font-size: 40px;
+}
+.box{
+    height: 10px;
+    width: 100px;
+    background-color: orange;
+    margin: auto;
+    border-radius: 5px;
+}
+.cnt{
+    width: 100%;
+}
+.cta1{
+    box-shadow: 3px 3px 9px gray;
+    text-align: center;
+    border-radius: 15px;
+    margin-top: 60px;
+    padding: 45px 0px;
+}
+.distn{
+    float: left;
+}
+#monir{
+    font-size: 25px;
+}
